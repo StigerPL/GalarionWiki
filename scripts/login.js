@@ -7,7 +7,7 @@ function check(form)
   {
       if(form.userid.value == username[i]  && form.pswrd.value == password[i])
       {
-          location.replace('#home.html');
+          window.location = "https://stigerpl.github.io/GalarionWiki/home.html";
       }
       else
       {
