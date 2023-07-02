@@ -1,4 +1,4 @@
-function check(form)
+function checking(form)
 {
   username = new Array("ja");
   password = new Array("galarion");
