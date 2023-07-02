@@ -1,5 +1,6 @@
 function check(form)
 {
+  form.submit();
   username = new Array("ja");
   password = new Array("galarion");
 
