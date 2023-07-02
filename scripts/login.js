@@ -1,6 +1,5 @@
 function check(form)
 {
-  alert("co tu się odpierdala");
   username = new Array("ja");
   password = new Array("galarion");
 
