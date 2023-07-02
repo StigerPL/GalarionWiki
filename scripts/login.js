@@ -11,7 +11,7 @@ function check(form)
       }
       else
       {
-          alert("Incorrect Username or Password");
+          alert("Niewłaściwe hasło lub nazwa");
       }
   }
 }
