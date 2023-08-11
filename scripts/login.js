@@ -7,6 +7,7 @@ function checking(form)
   //{
       if(form.userid.value == username[0]  && form.pswrd.value == password[0])
       {
+        sessionStorage.setItem("key");
           location.replace('home.html')
       }
       else
